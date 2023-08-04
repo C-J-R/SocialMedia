@@ -1,0 +1,52 @@
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/appsettings.Development.json
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/appsettings.json
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/Social Media.staticwebassets.runtime.json
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/Social Media
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/Social Media.deps.json
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/Social Media.runtimeconfig.json
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/Social Media.dll
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/ref/Social Media.dll
+/home/cjr/Coding/Social Media/bin/Debug/net6.0/Social Media.pdb
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.csproj.AssemblyReference.cache
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.GeneratedMSBuildEditorConfig.editorconfig
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.AssemblyInfoInputs.cache
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.AssemblyInfo.cs
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.csproj.CoreCompileInputs.cache
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.MvcApplicationPartsAssemblyInfo.cache
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.RazorAssemblyInfo.cache
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.RazorAssemblyInfo.cs
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/staticwebassets.build.json
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/staticwebassets.development.json
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/scopedcss/bundle/Social Media.styles.css
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/scopedcss/projectbundle/Social Media.bundle.scp.css
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.dll
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/ref/Social Media.dll
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.pdb
+/home/cjr/Coding/Social Media/obj/Debug/net6.0/Social Media.genruntimeconfig.cache
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/appsettings.Development.json
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/appsettings.json
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/Social Media.staticwebassets.runtime.json
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/Social Media
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/Social Media.deps.json
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/Social Media.runtimeconfig.json
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/Social Media.dll
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/ref/Social Media.dll
+/home/cjr/Coding/Social Media/src/bin/Debug/net6.0/Social Media.pdb
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.csproj.AssemblyReference.cache
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.GeneratedMSBuildEditorConfig.editorconfig
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.AssemblyInfoInputs.cache
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.AssemblyInfo.cs
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.csproj.CoreCompileInputs.cache
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.MvcApplicationPartsAssemblyInfo.cache
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.RazorAssemblyInfo.cache
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.RazorAssemblyInfo.cs
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/staticwebassets.build.json
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/staticwebassets.development.json
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/scopedcss/bundle/Social Media.styles.css
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/scopedcss/projectbundle/Social Media.bundle.scp.css
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.dll
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/ref/Social Media.dll
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.pdb
+/home/cjr/Coding/Social Media/src/obj/Debug/net6.0/Social Media.genruntimeconfig.cache
