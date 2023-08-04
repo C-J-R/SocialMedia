@@ -1,0 +1,42 @@
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="text-center" style="display: flex; justify-content: center; padding-top: 100px;">
+	<div class="card" style="width: 450px; height: auto; padding: 20px 0; margin: 5px; border-radius:16px;">
+		<div class="card-body" style="text-align:left;">
+			<h2 class="display-4" style="text-align:center;">Login</h2>
+			<br>
+			<form method="POST">
+				<div class="form-group" style="padding:20px; padding-bottom: 0px;">
+					<label for="username" class="form-label">Username</label>
+					<input type="text" class="form-control" id="username" name="username" placeholder="Username" style="font-size: 14pt;" required>
+				</div>
+				<div class="form-group" style="padding:20px;">
+					<label for="password" class="form-label">Password</label>
+					<input type="password" class="form-control" id="password" name="password" placeholder="Password" style="font-size: 14pt;" required>
+				</div>
+				<div class="form-check" style="margin-left:20px;">
+					<input type="checkbox" class="form-check-input" id="remember" name="remember">
+					<label class="form-check-label" for="remember">Remember me</label>
+				</div>
+				@if (ViewData.ModelState[""] != null && ViewData.ModelState[""].Errors.Count > 0) {
+       				<div class="alert alert-danger" name="error_field" style="margin: 20px; border-radius: 16px;">
+						@* <h5>Login failed!</h5> *@
+						@* @Html.ValidationSummary() *@
+						<h5>Something went wrong!</h5>
+						<p>Username or password incorrect. Please try again!</p>
+					</div>
+   				}
+				<div style="display: flex; justify-content: space-between; align-items: center; padding-top: 20px;">
+					<div class="form-group" style="padding:20px; text-align: left;">
+						<a href="Home/Index" class="btn btn-danger" style="padding:10px; width:100px;">Cancel</a>
+					</div>
+					<div class="form-group" style="padding:20px; text-align: right;">
+						<button type="submit" class="btn btn-primary" style="padding:10px; width:100px;">Login</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

@@ -18,6 +18,19 @@ public class HomeController : Controller
         return View();
     }
 
+	[HttpGet("Login")]
+	public IActionResult Login()
+	{
+		return View();
+	}
+
+	[HttpPost("Login")]
+	public IActionResult Login(string username, string password, string? remember)
+	{
+		ModelState.AddModelError("", "Username or password incorrect. Please try again.");
+		return View();
+	}
+
     public IActionResult Privacy()
     {
         return View();
