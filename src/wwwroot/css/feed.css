@@ -1,0 +1,102 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	width: 100%;
+	background-image: url("/images/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.container{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+main{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.content{
+	display: flex;
+	justify-content: space-between;
+	padding: 0;
+	border: 0;
+	width: 100vw;
+}
+
+.left{
+	/* background-color: red; */
+	width: 22vw;
+	height: 100vh;
+	margin: 20px;
+}
+
+.center{
+	/* background-color: aqua; */
+	width: 56vw;
+	height: 100vh;
+	margin-top: 20px;
+}
+
+.right{
+	/* background-color: blueviolet; */
+	width: 22vw;
+	height: 100vh;
+	margin: 20px;
+}
+
+.card{
+	border-radius:16px;
+	width: 100%;
+}
+
+.card-body{
+	padding: 10px;
+}
+
+.profile_pic img{
+	
+	width: 80px;
+	height: 80px;
+	border-radius: 8px;
+	margin-right: 10px;
+}
+
+.profile_pic_post img{
+	
+	width: 60px;
+	height: 60px;
+	border-radius: 8px;
+	margin-right: 10px;
+}
+
+.profile_text p {
+	margin: 0px;
+	padding: 0px;
+}
+
+.textpost_content{
+	padding-top: 10px;
+}
+
+.post_buttons{
+	text-align: center;
+	display: flex;
+}
+
+.post_buttons button{
+	width: 150px;
+	background-color: #EEE;
+	margin: 0;
+	margin-right: 10px;
+	border-radius: 100px;
+	padding: 10px;
+	padding-top: 6px;
+	border-style: none;
+}
+

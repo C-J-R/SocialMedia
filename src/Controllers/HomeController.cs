@@ -31,6 +31,16 @@ public class HomeController : Controller
 		return View();
 	}
 
+	[HttpGet("Feed")]
+	public IActionResult Feed()
+	{
+		return View();
+	}
+
+
+
+
+
     public IActionResult Privacy()
     {
         return View();
